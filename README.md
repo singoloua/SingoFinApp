@@ -110,8 +110,7 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-Built by **Singo Loua**  
-[LinkedIn](https://www.linkedin.com/in/singo-l-3a2931130)
+Built by **[Singo Loua](https://www.linkedin.com/in/singo-l-3a2931130)**  
 
 ---
 
