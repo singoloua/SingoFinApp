@@ -113,6 +113,8 @@ streamlit run app.py
 Built by **Singo Loua**  
 [LinkedIn](https://www.linkedin.com/in/singo-l-3a2931130)
 
+The WebApp can be found at: https://singofinapp.streamlit.app/ 
+
 ---
 
 ## ✨ Acknowledgements
